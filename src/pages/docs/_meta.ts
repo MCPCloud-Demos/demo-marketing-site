@@ -1,0 +1,1 @@
+export const ogImage = '/docs-hero.png'
